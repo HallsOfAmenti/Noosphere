@@ -6,6 +6,7 @@ wiki: https://en.wikipedia.org/wiki/Global_Consciousness_Project
 
 Home: https://noosphere.princeton.edu/gcpintro.html
 
+
 ## Data:
 - https://global-mind.org/papers/pdf/insurrection.210106.6hr.pdf
 - https://global-mind.org/papers/pdf/election.2020.pdf
@@ -16,6 +17,15 @@ https://noosphere.princeton.edu/replications.html
 
 # Princeton Engineering Anomalies Research Lab
 https://en.wikipedia.org/wiki/Princeton_Engineering_Anomalies_Research_Lab
+
+# University: Princeton
+https://www.google.com/search?q=princeton+parapsychology
+
+catalog: https://findingaids.princeton.edu/catalog/ENG003
+- https://findingaids.princeton.edu/catalog/ENG003_c006?onlineToggle=false
+
+timeline:
+- https://www.nytimes.com/2007/02/10/science/10princeton.html
 
 # Institute of Noetic Sciences
 https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
