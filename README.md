@@ -5,3 +5,6 @@ Home: https://noosphere.princeton.edu/ https://en.wikipedia.org/wiki/Noosphere s
 wiki: https://en.wikipedia.org/wiki/Global_Consciousness_Project
 
 Home: https://noosphere.princeton.edu/gcpintro.html
+
+# Institute of Noetic Sciences
+https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
