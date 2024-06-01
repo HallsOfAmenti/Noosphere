@@ -14,6 +14,9 @@ Home: https://noosphere.princeton.edu/gcpintro.html
 ## page:
 https://noosphere.princeton.edu/replications.html
 
+# Princeton Engineering Anomalies Research Lab
+https://en.wikipedia.org/wiki/Princeton_Engineering_Anomalies_Research_Lab
+
 # Institute of Noetic Sciences
 https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
 
