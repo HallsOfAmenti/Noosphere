@@ -12,3 +12,7 @@ https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
 # relation:
 ## Parapsychology
 https://en.wikipedia.org/wiki/Parapsychology
+
+-> https://en.wikipedia.org/wiki/Parapsychology#1970s_and_1980s
+  - https://en.wikipedia.org/wiki/Princeton_Engineering_Anomalies_Research_Lab
+  - https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI
