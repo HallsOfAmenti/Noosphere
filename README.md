@@ -6,6 +6,14 @@ wiki: https://en.wikipedia.org/wiki/Global_Consciousness_Project
 
 Home: https://noosphere.princeton.edu/gcpintro.html
 
+## Data:
+- https://global-mind.org/papers/pdf/insurrection.210106.6hr.pdf
+- https://global-mind.org/papers/pdf/election.2020.pdf
+- https://global-mind.org/papers/pdf/GCP.Corona.edgescience.fin.pdf
+
+## page:
+https://noosphere.princeton.edu/replications.html
+
 # Institute of Noetic Sciences
 https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences
 
